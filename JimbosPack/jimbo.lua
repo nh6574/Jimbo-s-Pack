@@ -76,8 +76,6 @@ googly.calculate = function(self, card, context)
     end
 end
 
-googly:register()
-
 ---Sad Lad
 local sadlad = SMODS.Joker {
     key = 'sadlad',
